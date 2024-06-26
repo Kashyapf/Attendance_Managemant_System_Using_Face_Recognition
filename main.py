@@ -169,5 +169,8 @@ if __name__ == "__main__":
     root.mainloop()
 
 
+def sample_function():
+    pass
+
 
 
